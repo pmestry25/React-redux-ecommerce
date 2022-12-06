@@ -3745,9 +3745,9 @@ decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.1"
@@ -9150,22 +9150,6 @@ react-dom@^16.13.1:
     object-assign "^4.1.1"
     prop-types "^15.6.2"
     scheduler "^0.19.1"
-
-"react-ecommerce-product-design@D:\\UI_Training_Assignments\\react_app\\react-ecommerce-product-design":
-  version "1.0.0"
-  dependencies:
-    node-sass "^4.14.1"
-    react "^16.13.1"
-    react-dom "^16.13.1"
-    react-router-dom "^5.2.0"
-
-"react-ecommerce-product-design@file:../react-ecommerce-product-design":
-  version "1.0.0"
-  dependencies:
-    node-sass "^4.14.1"
-    react "^16.13.1"
-    react-dom "^16.13.1"
-    react-router-dom "^5.2.0"
 
 react-error-overlay@^6.0.7:
   version "6.0.7"
